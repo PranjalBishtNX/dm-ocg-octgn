@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="DMR-15 Double Swords Ohginga" id="9f62f77e-aaf1-436f-8a82-6a00fffe7084" gameId="bb784fc6-fe21-4603-90d7-82c049908a74" gameVersion="3.0.0.0" version="2.0.0.0">
+	<packaging>
+		<pack name="Booster" id="a1dcf68a-00c2-41ae-a492-865e55b66554">
+			<options>
+				<option probability="0.083">
+					<pick qty="1" key="Rarity" value="Super Rare" />
+					<pick qty="5" key="Rarity" value="Common" />
+				</option>
+				<option probability="0.250">
+					<pick qty="1" key="Rarity" value="Very Rare" />
+					<pick qty="5" key="Rarity" value="Common" />
+				</option>
+				<option probability="0.667">
+					<pick qty="6" key="Rarity" value="Common" />
+				</option>
+			</options>
+			<pick qty="1" key="Rarity" value="Rare" />
+			<pick qty="3" key="Rarity" value="Uncommon"/>
+		</pack>
+	</packaging>
+	<cards>
+		<card name="Gigaheart, Invincible King Sword" id="64787fa1-f793-4768-9ace-c4d87a61e907">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Dragheart Weapon" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="A creature equipped with this gets 'speed attacker' and can't be destroyed while attacking.&#xd;&#xa;Dragsolution: When any of your Dragons attacks, if that is the second Dragon that attacked this turn, after the attack, flip this card to the dragheart creature side and untap it." />
+			<property name="Rarity" value="Double Victory" />
+			<property name="Number" value="VV1a" />
+		
+		<alternate name="Ohginga, Strongest Passion" type="awakening">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value=" 11" />
+			<property name="Type" value="Dragheart Creature" />
+			<property name="Race" value="Gaial Command Dragon" />
+			<property name="Power" value="15000" />
+			<property name="Rules" value="Speed attacker &#xd;&#xa; Whenever this creature attacks or whenever your opponent chooses this creature, put a dragheart creature that costs 10 or less from your hyperspatial zone into the battle zone. That creature gets 'speed attacker' until the end of the turn.&#xd;&#xa;Triple breaker" />
+			<property name="Rarity" value="Double Victory" />
+			<property name="Number" value="VV1b" />
+		</alternate>
+		</card>
+		
+		<card name="Heaven's Heaven, Heavenly Justice" id="71295175-6a3d-40f9-8e51-7b70ebc7726a" size="wide">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value=" 5" />
+			<property name="Type" value="Dragheart Fortress" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="At the end of your turn, you may put a Light creature that has 'blocker' from your hand into the battle zone.&#xd;&#xa; Non-light spells cost 1 more to cast. &#xd;&#xa;Dragsolution: At the start of your turn, if you have 3 or more creatures that have 'blocker' in the battle zone, flip this card to the dragheart creature side and untap it." />
+			<property name="Rarity" value="Victory Rare" />
+			<property name="Number" value="V1a" />
+		
+		<alternate name="Neverlast, Destiny Adoration" type="awakening" size="normal">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value=" 9" />
+			<property name="Type" value="Dragheart Creature" />
+			<property name="Race" value="Angel Command Dragon" />
+			<property name="Power" value="14500" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; Your Light creatures win all battles.&#xd;&#xa; Players can't cast non-Light spells that cost 5 or less.&#xd;&#xa;Triple breaker&#xd;&#xa;Escape" />
+			<property name="Rarity" value="Victory Rare" />
+			<property name="Number" value="V1b" />
+		</alternate>
+		</card>
+		
+		<card name="Niga=Abushumu, Invasive Mystery" id="de0c3318-b546-4f7f-9689-be018934ab85" size="wide">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value=" 5" />
+			<property name="Type" value="Dragheart Fortress" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value=" Cards in your mana zone are considered to be cards of every civilization.&#xd;&#xa; Whenever one of your Dragons would be destroyed, put it into your mana zone instead.&#xd;&#xa;Dragsolution: At the end of your turn, you may return 5 Dragons from your mana zone to your hand. If you do, flip this card to the dragheart creature side and untap it." />
+			<property name="Rarity" value="Victory Rare" />
+			<property name="Number" value="V2a" />
+		
+		<alternate name="Niga=Vermut, Evil King" type="awakening" size="normal">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light/Water/Darkness/Fire/Nature" />
+			<property name="Cost" value=" 11" />
+			<property name="Type" value="Dragheart Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="18000" />
+			<property name="Rules" value=" Cards in your mana zone are considered to be cards of every civilization.&#xd;&#xa; Whenever creatures attack, your opponent chooses one of his untapped creatures and puts it in his mana zone.&#xd;&#xa;Quattro breaker&#xd;&#xa;Dragon Evade" />
+			<property name="Rarity" value="Victory Rare" />
+			<property name="Number" value="V2b" />
+		</alternate>
+		</card>
+		
+		<card name="Valhalla Grande, Invincible Hero" id="28717ec1-6c73-445d-a3fd-20e89fa55209">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command Dragon" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; When you put this creature into the battle zone, choose up to 2 of your opponent's creatures in the battle zone and tap them. Those creatures don't untap at the start of the opponent's next turn.&#xd;&#xa;Double breaker&#xd;&#xa; Mana Arms 9: While you have 9 or more light cards in your mana zone, you can't lose the game and your opponent can't win." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S1" />
+		</card>
+
+		<card name="Mm Spellpsychedelica, Dragment Symbol" id="78a01dcc-470c-4160-a9b1-9f7d0cb0ecc3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Crystal Command Dragon" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="When you summon this creature or one of your other Command Dragons into the battle zone, reveal the top 4 cards of your deck. Your opponent chooses a spell from among them, and you put the rest on the bottom of your deck in any order. Then, cast that spell for no cost. Double breaker" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S2" />
+		</card>
+
+		<card name="Asmoshis, Craving Demon Dragon" id="c537169f-268e-4f54-8c49-017cc7317486">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="When you put this creature into the battle zone, you may destroy any number of your other creatures. For each destroyed creature, your opponents chooses a card from his hand and discards it. &#xd;&#xa; When this creature or one of your other creatures are destroyed, your opponent chooses one of his creatures and destroys it. &#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S3" />
+		</card>
+
+		<card name="D Soul Battle 3rd Generation, Passion Dragon" id="5fc737ad-3557-43cc-a880-f7225b2ddd98">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="12" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon" />
+			<property name="Power" value="13000" />
+			<property name="Rules" value="Triple Sympathy: Fire Dragon  (When you summon this creature, you may pay 3 less for each of your fire Dragons in the battle zone. It can't cost less than 1.) &#xd;&#xa; When you put this creature or another Dragon into the battle zone, you may choose one of your opponent's creatures in the battle zone. The Dragon and the chosen creature battle. &#xd;&#xa;Triple breaker" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S4" />
+		</card>
+
+		<card name="Saurotrex, Beginning Hero" id="ff85b29f-b7d3-4e9d-9310-293fa1ed8bc9">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="When you put this creature into the battle zone, reveal the top 4 cards of your deck to all players. Add any number of nature creatures from among it that have different costs into your hand. Put the rest on the bottom of your deck.&#xd;&#xa; Mana Arms 7: Whenever this creature attacks, if you have 7 or more nature cards in your mana zone, you may put a non-evolution creature from your hand into the battle zone.&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S5" />
+		</card>
+
+		<card name="Southern Renaissance, Resonance Dragon Elemental" id="d832e381-0c83-4f68-ac27-d0f3e77d0764">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command Dragon" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Sympathy: Light creature that costs 3 or less  (This creature costs 1 less to summon for each of your Light creatures that cost 3 or less in the battle zone. It can't cost less than 1.) &#xd;&#xa;{BLOCKER} &#xd;&#xa;Double breaker&#xd;&#xa; When you put this creature into the battle zone, you may draw a card for each of your Light creatures that cost 3 or less in the battle zone." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="1" />
+		</card>
+
+		<card name="Mj Rinshankaiho, Dragment Symbol" id="2c694b50-22fe-4f52-a973-8735b0186ea1">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="12" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Crystal Command Dragon" />
+			<property name="Power" value="12000" />
+			<property name="Rules" value="When you summon this creature, you may shuffle any number of spells from your graveyard into your deck. For each spell put into your deck, this creature costs 1 less to summon. It can't cost less than 1.&#xd;&#xa;Triple breaker&#xd;&#xa; Whenever you cast a water spell, you may choose a card in the battle zone and return it to its owner's hand." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="2" />
+		</card>
+
+		<card name="Gensetoraise, Burial Hero" id="5a4e413c-2e96-44bc-994f-0b0af9d717fb">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Mana Arms 5: At the end of your turn, if this creature is in your graveyard and you have 5 or more darkness cards in your mana zone, you may destroy one of your creatures. If you do, put this creature into the battle zone.&#xd;&#xa; Mana Arms 7: Whenever this creature attacks, if you have 7 or more darkness cards in your mana zone, choose any number of Funky Knightmares that have total cost of 5 or less from your graveyard and put them into the battle zone. &#xd;&#xa; Double breaker" />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="3" />
+		</card>
+
+		<card name="Glenmalt 'King', Dual Sword Dragon Edge" id="8b4a68c3-db8c-47c7-a906-4408df8d59c9">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="10" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon/Human Baku/Draguner" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="When you put this creature into the battle, put a fire weapon that costs 5 or less from your hyperspatial zone into the battle zone. (Equip it to this creature.)&#xd;&#xa;Mana Arms 7: When you put this creature into the battle zone, if you have 7 or more fire cards in your mana zone, put a fire weapon that costs 6 or less from your hyperspatial zone into the battle zone. &#xd;&#xa;Weapons that have the same name can't be equipped to this creature. &#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="4" />
+		</card>
+
+		<card name="Brontovenom, Chained Reincarnation Kind" id="bff26574-6824-4aae-9b8a-bf12cfc2c6d5">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Double breaker&#xd;&#xa; When this creature or one of your other nature dragons are destroyed, you may put a creature that costs less than that creature from your mana zone into the battle zone. &#xd;&#xa; When this creature loses a battle against a creature that has more power than this creature, put that creature into it's owner's mana zone." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="5" />
+		</card>
+
+		<card name="Saint Rose, Dragon Edge" id="06f37ed0-01df-4616-90aa-a48c61c847db">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing/Draguner" />
+			<property name="Power" value="6500" />
+			<property name="Rules" value="When you put this creature into the battle zone, put a light dragheart that costs 5 or less from your hyperspatial zone into the battle zone.  (If it's a weapon, equip it to this creature.) &#xd;&#xa; While you have a light dragheart in the battle zone, this creature gets 'blocker'.&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="6" />
+		</card>
+
+		<card name="Oriotis, Control Wings" id="aba2342f-ea24-4e05-9f7a-cbe6b10e1983">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing" />
+			<property name="Power" value="2500" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; This creature can't attack players.&#xd;&#xa; Whenever your opponent puts a creature into the battle zone that costs more than the number of cards in his mana zone, put that creature on the bottom of his deck." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="7" />
+		</card>
+
+		<card name="Medaros, Purity Wings" id="bd44a1c5-f4c4-419d-9bd7-8a66111c438f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="Mana Arms 3: Whenever this creature attacks, if you have 3 or more light cards in your mana zone, choose one of your opponent's creatures in the battle zone and tap it. &#xd;&#xa; Mana Arms 5: When this creature would leave the battle zone and has power 0 or more, if you have 5 or more light cards in your mana zone, this creature stays in the battle instead." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="8" />
+		</card>
+
+		<card name="d2 Ryanpeko, Dragment Symbol" id="fc1c5902-17b7-4de4-9b30-0828c9e8a01e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Crystal Command Dragon" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; When you put this creature into the battle zone, draw up to 2 cards." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="9" />
+		</card>
+
+		<card name="Xf Croce Fuoco, Dragment Symbol" id="19fd0618-b53d-405f-a7d1-1351c57761f8">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Crystal Command Dragon" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa;Gravity Zero-If your opponent has 5 or more cards in his graveyard, you may summon this creature for no cost.&#xd;&#xa; This creature can't attack.&#xd;&#xa; When you put this creature into the battle zone, each player shuffles all cards in his graveyard into his deck." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="10" />
+		</card>
+
+		<card name="Spiral Hurricane, Hero Secret Technique" id="a057d2ce-2820-4e4f-afe4-863787bf28b7">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; Choose a creature in the battle zone and return it to it's owner's hand.&#xd;&#xa; Mana Arms 7: If you have 7 or more water cards in your mana zone, return all your opponent's creatures to their owner's hands." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="11" />
+		</card>
+
+		<card name="Akunohana, Hubris Demon Dragon" id="9daecc9c-e0cc-4838-9dee-a9b6f4be618f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="When you put this creature into the battle zone, discard a card from your opponent's hand at random for each of your Funky Knightmares in the battle zone.&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="12" />
+		</card>
+
+		<card name="Packpock Pig" id="6ed512db-00c1-47a3-9e8e-702496e0c785">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Funky Knightmare" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="When you put this creature into the battle zone, put the top 5 cards of your deck into your graveyard. &#xd;&#xa; This creature gets +1000 power for each of your Funky Knightmares in your graveyard. &#xd;&#xa; While this creature has power 6000 or more, it gets 'double breaker'." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="13" />
+		</card>
+
+		<card name="Roar of Destruction, Dragon Secret Formation" id="1e6e36cd-01a6-4e0d-892e-16f64d6e06b3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="One of your opponent's creatures in the battle zone gets -1000 power for each of your Dragons in your mana zone until the end of the turn.  (A creature that has power 0 or less is destroyed.) " />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="14" />
+		</card>
+
+		<card name="Gaial Horn, Iron-slashing Sword" id="b8b86efa-3015-430a-8e24-423a28eeaac6">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value=" 2" />
+			<property name="Type" value="Dragheart Weapon" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="The equipped creature gets 'power attacker +2000' and the Gaial Command Dragon race. &#xd;&#xa; Dragsolution: At the end of your turn, if the equipped creature is tapped, flip this dragheart to the creature side. (At the start of your game, draghearts are put into your hyperspatial zone. If a creature equipped with it or the dragheart leaves the battle zone, return it there.)" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="15a" />
+
+		<alternate name="Zantetsu Big Horn, Passion Dragon" type="awakening">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value=" 5" />
+			<property name="Type" value="Dragheart Creature" />
+			<property name="Race" value="Gaial Command Dragon" />
+			<property name="Power" value="4000+" />
+			<property name="Rules" value="Each of your other creatures in the battle zone gets the Gaial Command Dragon race.&#xd;&#xa;Power Attacker +2000&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="15b" />
+		</alternate>
+		</card>
+		
+		<card name="Jackpot Entry, Dragon Secret Formation" id="487cf444-c4f7-4fa6-b975-d99da26fb78c">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="For each Dragon in your mana zone, look at the top card of your deck. You may put a non-evolution Dragon from among it that costs 8 or less into the battle zone and put the rest on the bottom of the deck in any order." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="16" />
+		</card>
+
+		<card name="The=Deadman, Dragon Edge" id="fa57f485-02cc-4924-9365-90aa864009b3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon /Draguner" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="When you put this creature into the battle zone, you may put a nature dragheart that costs 5 or less from your hyperspatial zone into the battle zone.&#xd;&#xa; Whenever you summon a creature or cast a spell, you may tap a light card, a water card, a darkness card, a fire card and a nature card in your mana zone instead of paying it's cost.&#xd;&#xa;Double breaker" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="17" />
+		</card>
+
+		<card name="Parasrex, Chain Parasitic Eye" id="a727f44b-b74b-430f-b2cc-e42f62a6485c">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="When you put this creature into the battle zone or whenever this creature attacks, you may put a creature that has 'Paras' in its name from your mana zone into the battle zone." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="18" />
+		</card>
+
+		<card name="Jurassic Panic, Dragon Secret Formation" id="609796e1-df18-4fe7-8ea7-ff6e3154ae6f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="For each Dragon in your mana zone, look at the top card of your deck. Put any number of dragons from among them into your mana zone and the rest on the bottom of your deck in any order." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="19" />
+		</card>
+
+		<card name="Paras Rusowa, Parasitic Dragon Elemental" id="29974a6e-81a9-47a2-b77e-a6040d2ad488">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command Dragon" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Each of your Command Dragons in the battle zone gets 'blocker'.  (Whenever one of your opponent's creatures attacks, you may tap a creature that has 'blocker' to stop the attack. Then the 2 creatures battle.) " />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="20" />
+		</card>
+
+		<card name="Super Eternal Spark" id="b9a4021f-57d6-47cd-be2e-f182a7753a7b">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; Choose a non-evolution card that costs 6 or less in the battle zone and add it to its owner's shields face down." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="21" />
+		</card>
+
+		<card name="Heaven Anthem, Dragon Secret Formation" id="33800166-de1a-41c4-bcbd-4ebf454e924f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="For each Dragon in your mana zone, look at a card on the top of your deck. Choose one of them and add it to your shields face down. Put the rest on the bottom of your deck in any order." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="22" />
+		</card>
+
+		<card name="Isaac, Aqua Newcomer Soldier" id="856fb3f8-ee14-4a86-95be-e549d5d8eca8">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Liquid People Sen" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Mana Arms 3: Whenever this creature attacks, if you have 3 or more water cards in your mana zone, you may draw a card. &#xd;&#xa; Mana Arms 5: If you have 5 or more water cards in your mana zone, this creature can't be attacked or blocked." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="23" />
+		</card>
+
+		<card name="Dragon Knowledge Technique, Dragon Secret Formation" id="a725f165-61ad-47e1-8cae-4362dd5090af">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Draw a card for each dragon in your mana zone." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="24" />
+		</card>
+
+		<card name="Spellbook Charger" id="941dd418-965b-4e58-9a4b-27e883c4e31e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Look at the top 5 cards of your deck. You may take a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.&#xd;&#xa;Charger" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="25" />
+		</card>
+
+		<card name="Nyandaful Nyan" id="98d92d73-645b-4920-9ed9-303ec91bfad6">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Funky Knightmare" />
+			<property name="Power" value="2000+" />
+			<property name="Rules" value="Whenever a creature is destroyed, this creature gets +2000 power until the end of the turn. &#xd;&#xa; While this creature has power 6000 or more, it gets 'double breaker'." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="26" />
+		</card>
+
+		<card name="Midsummer Night Fever" id="dbce1578-89c0-4dc7-bd3f-7cabe6f178e1">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Each of your creatures in the battle zone gets 'slayer' until the end of the turn.  (Whenever a creature that has 'slayer' battles, destroy the opponent's creature after the battle.) " />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="27" />
+		</card>
+
+		<card name="Batrevenge, Passion Dragon" id="8c535bd4-afdf-4bf9-85b8-253f722a6bac">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon" />
+			<property name="Power" value="5000+" />
+			<property name="Rules" value="Revenge Chance—At the end of each of your opponent's turns, if he put a creature from his hyperspatial zone into the battle zone, you may summon this creature for no cost. &#xd;&#xa; When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. This creature battles that creature. &#xd;&#xa; While battling, this creature gets +2000 power." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="28" />
+		</card>
+
+		<card name="Ira Fizz, Dragon Edge" id="32ea765c-4685-4346-8367-45767a17cfec">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Human Baku/Draguner" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Mana Arms 3: When you put this creature into the battle zone, if you have 3 or more fire cards in your mana zone, put a fire dragheart that costs 2 or less from your hyperspatial zone into the battle zone. (If its a weapon, equip it to this creature.)" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="29" />
+		</card>
+
+		<card name="Gett Junior, Courageous Tradition" id="8bd8f45d-91c9-48b9-b917-72a20d784edc">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Human Baku" />
+			<property name="Power" value="2000+" />
+			<property name="Rules" value="Mana Arms 3: If you have 3 or more fire cards in your mana zone, this creature can't be attacked by creatures that cost 4 or less.&#xd;&#xa; Mana Arms 5: If you have 5 or more fire cards in your mana zone, this creature gets 'double breaker' and 'power attacker +4000'." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="30" />
+		</card>
+
+		<card name="Tonosamaparas, Parasitic Kind" id="14570ff3-bc03-4e25-91ee-d1b3af2ec36d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="Double breaker&#xd;&#xa; When this creature or one of your other Command Dragons would be destroyed, put them into your mana zone instead." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="31" />
+		</card>
+
+		<card name="Nam=Aueiki, Growth Style" id="fd742e53-72e2-454a-a811-f2bd8912ae90">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Beast Folk Go" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Mana Arms 3: Whenever this creature attacks, if you have 3 or more nature cards in your mana zone, you may put the top card of your deck into your mana zone.&#xd;&#xa; Mana Arms 5: When this creature would be destroyed, if you have 5 or more nature cards in your mana zone, put it into your mana zone instead." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="32" />
+		</card>
+
+		<card name="Chake's Kecak" id="aef5336a-36bb-42b1-98a5-56d58530cfee">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; This turn, creatures can't attack players.&#xd;&#xa; Each of your creatures in the battle zone gets +2000 power until the end of the turn." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="33" />
+		</card>
+
+		<card name="Dekodekko Dekorianu Pikkappikka III, Brave Dragon Elemental" id="eafbf359-bd5b-47f6-bf79-54a168980021">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command Dragon " />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; This creature can't attack players. &#xd;&#xa; Whenever this creature blocks, choose one of your opponent's creatures in the battle zone and tap it." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="34" />
+		</card>
+
+		<card name="Noir, White Night Wings" id="409f7ab7-de5d-470b-9f18-050eb899df3a">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="When you put this creature into the battle zone, return a light creature that costs 3 or less from your graveyard to your hand." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="35" />
+		</card>
+
+		<card name="Alishion, Robust Wings" id="bf1536da-fa9a-4f8a-b2eb-7875300a5cc8">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; This creature can't attack players.&#xd;&#xa;Escape" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="36" />
+		</card>
+
+		<card name="Hymn of Justice and Love" id="32c2d588-524d-4912-876f-b99754d94949">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="1" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="One of your creatures in the battle zone gets +2000 power until the end of your turn. At the end of your turn, untap that creature." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="37" />
+		</card>
+
+		<card name="Ps Chankanparas, Dragment Symbol" id="ece15a5c-d43f-43b1-a229-505a8400d30f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Crystal Command Dragon " />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="Each of your Command Dragons in the battle zone can't be blocked." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="38" />
+		</card>
+
+		<card name="Shamisen, Aqua Operative" id="71483692-c403-4726-a57f-95013b1216bc">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Liquid People Sen" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="When you put this creature into the battle zone, each player may draw 3 cards. If they do, they discard 3 cards." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="39" />
+		</card>
+
+		<card name="Drillgetter No. 2, Aqua Warrior" id="6a99718b-299b-4f7d-930d-dbd760ba953a">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Liquid People Sen" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="This creature can't be blocked." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="40" />
+		</card>
+
+		<card name="Dragon Pulse Technique - Fortress Destroyer" id="c9dbaacf-85d1-4ae9-8c7b-a6cbb3938d01">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; Choose a card in the battle zone that costs 6 or less and return it to its owner's hand." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="41" />
+		</card>
+
+		<card name="Wazaganasshin, Pure Demon Dragon" id="c69f28da-2ebf-4863-a64e-91c2344a2eb9">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="42" />
+		</card>
+
+		<card name="Parasmaru, Parasitic Demon Dragon" id="bf843d2c-2ae8-4e59-9ceb-53bb761e6938">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon " />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Each of your Command Dragons in the battle zone gets 'slayer'.  (Whenever a creature that has 'slayer' battles, destroy the other creature after the battle.) " />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="43" />
+		</card>
+
+		<card name="Donbaku Bobobon" id="cd18fde4-2737-4fba-8eab-f907524e369e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Funky Knightmare" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="When this creature is destroyed, choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the end of the turn.  (A creature that has power 0 or less is destroyed.) " />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="44" />
+		</card>
+
+		<card name="Attacking Bonsura" id="c689b2d3-e4dd-4af6-b8d5-169441e072ef">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Funky Knightmare" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="{BLOCKER}&#xd;&#xa; Whenever this creature attacks, destroy it after the attack." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="45" />
+		</card>
+
+		<card name="Wolf Fang Punch" id="158133eb-2a33-413a-b334-d7d36689cb35">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; Choose one of your opponent's creatures in the battle zone. That creature gets -6000 power until the end of the turn.  (A creature that has power 0 or less is destroyed.) &#xd;&#xa;" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="46" />
+		</card>
+
+		<card name="Dorodoro Gekikarekara Curryban, Passion Dragon" id="92436b0a-ae3e-4105-884c-edab3e46891f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon /Curry Bread" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="This creature can only be attacked by Dragons." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="47" />
+		</card>
+
+		<card name="Paraslugger, Passion Dragon" id="fb1f3c77-b57e-4593-badc-72e623d315e3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Gaial Command Dragon " />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="Each of your Command Dragons in the battle zone gets 'speed attacker'.  (A creature that has 'speed attacker' doesn't get summoning sickness.) " />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="48" />
+		</card>
+
+		<card name="Tris, Explosive Boy" id="74323d6c-45e8-45de-84dd-108c2fd54dcf">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Human Baku" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Speed attacker" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="49" />
+		</card>
+
+		<card name="Super Phantom Lion's Flame" id="a7200658-3757-4d15-8602-5711a130fbe2">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="{SHIELD TRIGGER}&#xd;&#xa; Choose one of your opponent's cards in the battle zone that costs 4 or less. If its a creature, destroy it. Otherwise, put it into its owner's graveyard." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="50" />
+		</card>
+
+		<card name="Dual Wield Training" id="6f85ae2c-d166-4f44-aa18-7259c2d9b3ce">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Choose one of your creatures in the battle zone. When that creature is tapped for the first time this turn, untap it." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="51" />
+		</card>
+
+		<card name="Vanyuegujitto, Purekind" id="8ef48c2f-e781-4e2f-920c-170fdfe1fd5d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="52" />
+		</card>
+
+		<card name="Sosusosu, Party Style" id="a5a60f3f-b382-47e8-8fc7-be9b5244d143">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Beast Folk Go" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="When you put this creature into the battle zone, one of your creatures in the battle zone gets +3000 power until the end of the turn." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="53" />
+		</card>
+
+		<card name="Gomez, Idol Style" id="d2695717-9f79-4448-89c9-19561a907f64">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Beast Folk Go" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Guardman&#xd;&#xa; This creature can't attack players." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="54" />
+		</card>
+
+		<card name="Little Eyes Growth" id="219673f3-0f1c-4a2e-8bac-c09e4df20d18">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Reveal the top 2 cards of your deck. Put all creatures into your mana zone, and the rest into your graveyard." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="55" />
+		</card>
+
+	</cards>
+</set>

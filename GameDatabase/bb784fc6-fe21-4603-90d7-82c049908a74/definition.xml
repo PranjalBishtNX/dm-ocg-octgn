@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 		id="bb784fc6-fe21-4603-90d7-82c049908a74" 
-		version="1.0.6.5" 
+		version="1.0.7.0"
 		octgnVersion="3.3.132.0" 
 		scriptVersion="3.1.0.2" 
 		name="Duel Masters" 
@@ -21,6 +21,7 @@
 		<event name="OnGameStarted" action="resetGame" />
 		<event name="OnCardsMoved" action="moveCards" />
 		<event name="OverrideTurnPassed" action="endTurn" />
+		<event name="OnCardTargeted" action="onTarget" />
 	</events>
 	
 	<proxygen definitionsrc="proxy/CardGenData.xml" />
@@ -43,6 +44,10 @@
 		<property name="Rules" type="String" ignoreText="False" />
 		<property name="Power" type="String" textKind="Enum" ignoreText="False" />
 		<property name="Number" type="String" ignoreText="False" />
+		<size name = "normal" back="cards/back.jpg" front="cards/front.jpg" width="63" height="88" cornerRadius="3"/>
+		<size name = "wide" back="cards/back.jpg" front="cards/front.jpg" width="88" height="63" cornerRadius="3"/>
+		<size name = "tall" back="cards/back.jpg" front="cards/front.jpg" width="88" height="189" cornerRadius="9"/>
+
 	</card>
 
 	<table name="Battle Zone" visibility="undefined" ordered="False" width="800" height="600" background="background/background.jpg" backgroundStyle="uniformToFill">
@@ -50,13 +55,14 @@
 		<groupaction menu="Roll Die" shortcut="ctrl+R" execute="rollDie" />
 		<groupaction menu="Set Up Battlezone" execute="setup" />
 		<groupaction menu="End Turn" shortcut="ctrl+E" execute="endTurn" />
+		<groupaction menu="Clear Targets/Arrows" shortcut="esc" execute="clear" />
 		<cardaction menu="Tap / Untap" default="True" shortcut="ctrl+G" execute="tap" />
 		<cardaction menu="Play Card" execute="toPlay" />
 		<cardaction menu="Destroy Card / Break Shield" shortcut="del" execute="destroy" />
 		<cardaction menu="Set as Shield" shortcut="ctrl+H" execute="toShields" />
 		<cardaction menu="Awaken / Release / Flip Card" shortcut="ctrl+A" execute="flip" />
 		<cardaction menu="Charge as Mana" shortcut="ctrl+C" execute="toMana" />
-		<cardaction menu="Clear Targets/Arrows" shortcut="esc" execute="clear" />
+		
 	</table>
 
 	<player summary="{#Hand}">
