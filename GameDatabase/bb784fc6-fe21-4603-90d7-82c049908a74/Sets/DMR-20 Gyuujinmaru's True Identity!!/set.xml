@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="DMR-20 Gyuujinmaru's True Identity!!" id="68901489-206c-4674-8a99-de380acd8dd4" gameId="bb784fc6-fe21-4603-90d7-82c049908a74" gameVersion="3.0.0.0" version="2.0.0.0">
+	<packaging>
+		<pack name="Booster" id="a111de59-e300-4aac-93c3-f6d3a0fe8ab4">
+			<options>
+				<option probability="0.100">
+					<pick qty="1" key="Rarity" value="Legend Card" />
+					<pick qty="5" key="Rarity" value="Common" />
+				</option>
+				<option probability="0.100">
+					<pick qty="1" key="Rarity" value="Super Rare" />
+					<pick qty="5" key="Rarity" value="Common" />
+				</option>
+				<option probability="0.200">
+					<pick qty="1" key="Rarity" value="Very Rare" />
+					<pick qty="5" key="Rarity" value="Common" />
+				</option>
+				<option probability="0.600">
+					<pick qty="6" key="Rarity" value="Common" />
+				</option>
+			</options>
+			<pick qty="1" key="Rarity" value="Rare" />
+			<pick qty="3" key="Rarity" value="Uncommon"/>
+		</pack>
+	</packaging>
+	<cards>
+		<card name="Miracle Miradante" id="45ead7fd-620f-458c-ba7d-25df967fec45">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Angel Command Dragon/Revolutionary" />
+			<property name="Power" value="14500" />
+			<property name="Rules" value="Revolution 0 Trigger - Whenever a creature attacks you. if you have no shields, you may reveal this creature from your hand. if you do, reveal the top card of your deck. If it's a non-evolution light creature, put that creature into the battle zone and put this creature on top of it.&#xd;&#xa;Evolution - Put on one of your light creatures.&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you put this creature into the battle zone, this creature gets 'Blocker' and your opponent's Commands can't attack until the start of your next turn." />
+			<property name="Rarity" value="Legend Card" />
+			<property name="Number" value="L1/L2" />
+		</card>
+		<card name="Gyuujinmaru, Legendary Identity" id="acfee6ea-db5f-458c-9654-2c621a5b399d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="71" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="The Answer" />
+			<property name="Power" value="71000" />
+			<property name="Rules" value="Genius Sympathy - Water creatures(This creature costs 10 less to summon for each of your water creatures in the battle zone. It can't cost 0 or less)&#xd;&#xa;World breaker(This creature breaks all your opponent's shields)&#xd;&#xa;When you summon this creature, your opponent shuffles all of their creatures into their deck. If they shuffled 6 or more creatures, you win the game." />
+			<property name="Rarity" value="Legend Card" />
+			<property name="Number" value="L2/L2" />
+		</card>
+		<card name="Duezeus, Nine Extremes Revolution" id="d5cc1690-78c5-4c24-9a14-6cdd442cc775">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="9" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command/Revolutionary/Invader" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever you put this creature into the battle zone or attacks, if the number of your creatures is equal to or greater than your shields, you may add the top card of your deck to your shields face down.&#xd;&#xa;Revolution 2 - If you have 2 or less shields, each of your light creatures that costs 9 put into your hand from your shields get 'shield trigger'." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S1/S9" />
+		</card>
+		<card name="Gachidaiou, Super Eureka" id="c1e367e1-6a73-4cce-8e40-9282363d5c8c">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Magic Command/Great Mecha King/Invader" />
+			<property name="Power" value="12000" />
+			<property name="Rules" value="Evolution - Put on one of your water creatures.&#xd;&#xa;Invasion - Water creature that costs 5 or more(When one of your water creatures that costs 5 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you put this creature into the battle zone, you may choose one of your opponent's creatures and return it to its owner's hand. If there are 3 or more cards under this creature, choose up to 3 of his creatures and return them to their owner's hand instead." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S2/S9" />
+		</card>
+		<card name="Dueland, Transformation of Dreams" id="bfaf00d5-a6b8-46cb-86bf-849c9589b4b3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="14" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="The Answer" />
+			<property name="Power" value="14000" />
+			<property name="Rules" value="Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you summon this creature into the battle zone, put the top 7 cards of your deck into your graveyard. From among them, use any number of water cards that cost 7 or less for no cost. If you used all 7 cards, you win the game.&#xd;&#xa;When this creature leaves the battle zone, shuffle all cards in your graveyard into your deck." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S3/S9" />
+		</card>
+		<card name="Deathmatmel, Super Zombie" id="746f75f8-2963-43a3-b371-a1d93b0c3ec0">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Demon Command/Invader" />
+			<property name="Power" value="13000" />
+			<property name="Rules" value="Super Infinite Graveyard evolution - Put this creature into the battle zone on any number of your creatures from your graveyard.&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;Whenever this creature attacks, each of your opponent's creatures gets -5000 power until the end of the turn.&#xd;&#xa;When this creature would be destroyed, you may put 3 cards under this creature into your graveyard instead." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S4/S9" />
+		</card>
+		<card name="Death Gate, Hell Demon Dragon" id="cd8e9d13-faca-49d6-8c19-c479b072315e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon/Revolutionary" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever you put this creature into the battle zone or attacks, put the top card of your deck into your graveyard. If it's a darkness creature, destroy one of your opponent's untapped creatures and you may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S5/S9" />
+		</card>
+		<card name="Captain Dracken" id="2d68e1c8-aa2b-4805-922e-883b70914622">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Mega Command Dragon/Revolutionary" />
+			<property name="Power" value="13000" />
+			<property name="Rules" value="Evolution―Put on one of your fire creatures.&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;When you put this creature into the battle zone, reveal the top 5 cards of your deck. Put all non-evolution Fire Birds from among them into the battle zone, and put the rest on the bottom of your deck in any order.&#xd;&#xa;Revolution 2 - If you have 2 or less shields, each of your other fire creatures get +6000 power and breaks an additional shield." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S6/S9" />
+		</card>
+		<card name="Parasking, Revolution Invasionkind" id="db241024-6a26-41a7-bd50-4a945fbbbdee">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Jurassic Command Dragon/Revolutionary/Invader" />
+			<property name="Power" value="14000" />
+			<property name="Rules" value="Evolution - Put on one of your creatures.&#xd;&#xa;Invasion - Creature that costs 5 or more (When one of your creatures that costs 5 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;Triple breaker(This creature breaks 3 shields)&#xd;&#xa;Your cards in the battle zone are considered to be cards of every civilization.&#xd;&#xa;Revolution 2 - If you have 2 shields or less, your creatures may cost up to 5 less to summon. They can't cost 0 or less." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S7/S9" />
+		</card>
+		<card name="Daddy Pine, Super Beast Army" id="c0c2090d-1d0a-46be-bbb7-ec62915f3daf">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Guerrilla Command/Invader" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="Evolution - Put on one of your nature creatures.&#xd;&#xa;Invasion - Nature creature that costs 5 or more(When one of your nature creatures that costs 5 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, put the top card of your deck into your mana zone. If there are 3 or more cards under this creature, put up to 5 cards from the top of your deck into your mana zone instead." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S8/S9" />
+		</card>
+		<card name="Redzone X, Forbidden Lightning Sonic" id="3c2019ee-daf2-4249-8bb8-f23e09b17019">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness/Fire" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Sonic Command/S-Rank Invader/Initials" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="Evolution - Put on one of your darkness or fire creatures.&#xd;&#xa;S-Rank Invasion 'Lightning Sonic' - Darkness or Fire Command(When one of your darkness or fire commands attack, you may put this creature from your hand, battle zone or graveyard onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures. Your opponent puts a seal on that creature." />
+			<property name="Rarity" value="Super Rare" />
+			<property name="Number" value="S9/S9" />
+		</card>
+		<card name="Shakashakka, Super Three Kingdoms" id="7fe885fb-f332-40de-9318-d18ab09a6655">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Angel Command/Invader" />
+			<property name="Power" value="10500" />
+			<property name="Rules" value="Evolution - Put on one of your light creatures&#xd;&#xa;Invasion - Light creature that costs 5 or more(When one of your light creatures that costs 5 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="1/70" />
+		</card>
+		<card name="Hallelujah, Eight Extremes" id="2f432dec-f2e6-4ac3-9549-2497d51fc7d3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="9" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command/Revolutionary/Invader" />
+			<property name="Power" value="11000" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever one of your opponent's creatures attacks, you may add a shield to your hand. If you do, untap this creature.(You may use the 'shield trigger' ability of that shield)" />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="2/70" />
+		</card>
+		<card name="Takonchu, Space" id="e66f2155-5b55-43a5-b02d-1cf37a938c22">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Magic Command/Invader" />
+			<property name="Power" value="5000+" />
+			<property name="Rules" value="Each of your water creatures gets the Magic Command race.&#xd;&#xa;When this creature would be destroyed during your opponents turn, your opponent draws 5 cards instead, and this creature gets +5000 power until the end of the turn." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="3/70" />
+		</card>
+		<card name="Jurandeath, Heaven Slashing Demon Dragon" id="0b63e72d-4810-4625-ade2-1db3f7a12d59">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="1" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon" />
+			<property name="Power" value="24000" />
+			<property name="Rules" value="World breaker(This creature breaks all your opponent's shields)&#xd;&#xa;This creature is put into the battle zone tapped.&#xd;&#xa;If you have less than 13 cards in your graveyard, this creature doesn't untap.&#xd;&#xa;Whenever this creature untaps, shuffle your graveyard into your deck." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="4/70" />
+		</card>
+		<card name="Mega Narrator Dragon" id="3ab34ec0-3c63-4139-be14-63a79d969218">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Mega Command Dragon/Revolutionary" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Speed attacker(This creature doesn't get summoning sickness)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever this creature attacks for the first time each turn, if your number of creatures is equal to or greater than your number of shields, untap this creature." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="5/70" />
+		</card>
+		<card name="Captain Mister Amecchi" id="fbf11f45-8ad1-4b5c-8ec8-ae4be820e808">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Fire Bird En/Revolutionary" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="Speed attacker(This creature doesn't get summoning sickness)&#xd;&#xa;Whenever this creature attacks, reveal the top card of your deck. If it's a fire Dragon, add it to your hand. Otherwise, put it on the bottom of your deck.&#xd;&#xa;Mana Arms 5 - When this creature is destroyed, if you have 5 or more fire cards in your mana zone, you may put a fire Dragon that costs 8 or less from your hand into the battle zone." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="6/70" />
+		</card>
+		<card name="Stejura, Samuraikind" id="c822df1f-c41f-4bdc-9c6a-231e92c6d842">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon/Revolutionary" />
+			<property name="Power" value="11000" />
+			<property name="Rules" value="Gravity Zero - If you have 3 or more Snow Faeries in the battle zone, you may summon this creature for no cost.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may return any number of Snow Faeries from your graveyard or mana zone to your hand.&#xd;&#xa;Whenever your Snow Faeries would battle one of your opponent's creatures, you may have this creature battle instead." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="7/70" />
+		</card>
+		<card name="Parasraft, Revinvakind" id="3e13381b-900a-47cf-a60b-d3d0e569a627">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon/Revolutionary/Invader" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="When you put this creature into the battle zone, put all nature creatures from your graveyard into your mana zone.&#xd;&#xa;During your turn, if a player has 2 or less shields, you may summon a creature from your mana zone." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="8/70" />
+		</card>
+		<card name="Nova! Belunare" id="94ce0cc8-bbdb-4e03-aaf8-0fbe8249bbbf">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light/Water" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command Dragon/Revolutionary" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle) &#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Mana Arms 5: If you have 5 or more Light cards in your mana zone, this creature gets 'shield trigger'.&#xd;&#xa;Mana Arms 3: When you put this creature into the battle zone,  if you have 3 or more Water cards in your mana zone, choose up to 2 of your opponent's creatures. Until the start of your next turn, those creatures can't attack or block." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="9/70" />
+		</card>
+		<card name="Entry! Hamukatsu Man" id="438cb726-4a62-4f4b-acdf-4928b6114d73">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire/Nature" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Mega Command Dragon/Revolutionary" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;Speed attacker(This creature doesn't get summoning sickness) &#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Mana Arms 5: Whenever this creature attacks, if you have 5 or more Fire cards in your mana zone, choose one of your opponent's creatures in the battle zone. That creature and this creature battle.&#xd;&#xa;Mana Arms 3: If you have 3 or more Nature cards in your mana zone, this creature gets +5000 power and 'triple breaker'." />
+			<property name="Rarity" value="Very Rare" />
+			<property name="Number" value="10/70" />
+		</card>
+		<card name="Duenurse, Three Extremes" id="ecccf556-b978-45ec-89fb-18bfcefc3ee3">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="9" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Angel Command/Revolutionary/Invader" />
+			<property name="Power" value="3500" />
+			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;Ultra Saver: Creature that costs 9(When one of your creatures that costs 9 would leave the battle zone, you may destroy this creature instead)" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="11/70" />
+		</card>
+		<card name="Dante, Future Ball" id="00ced442-7cf6-42bb-a484-e7f658c2adbd">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Orb/Angel Command Dragon/Revolutionary" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;When you put this creature into the battle zone, you may return a spell from your mana zone or graveyard to your hand.&#xd;&#xa;When this creature would be destroyed, put it on the top of your deck instead." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="12/70" />
+		</card>
+		<card name="Miracle Stop" id="37ef04a5-af9d-45ff-9495-081630ad7383">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Gravity Zero―If you have an Angel Command Dragon in the battle zone, you may cast this spell for no cost.&#xd;&#xa;Your opponent can't cast spells until the start of your next turn." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="13/70" />
+		</card>
+		<card name="Gachidive, Eureka" id="d6713ab6-1226-44c3-b6b2-732ca64fb244">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Magic Command/Great Mecha King/Invader" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="Evolution - Put on one of your water creatures.&#xd;&#xa;Invasion - Water creature that costs 3 or more(When one of your water creatures that costs 3 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put a creature from your hand under this creature. If you do, draw 2 cards." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="14/70" />
+		</card>
+		<card name="It's Showtime" id="80a1d0bf-7441-4d12-972a-db63346798bc">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="8" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Your opponent may put any number of non-evolution creatures from their hand into the battle zone. Then you may summon a creature from your hand that costs more than your opponents creature your opponent put into the battle zone that has the highest cost.(If your opponent put no creatures into the battle zone, you may summon any creature for no cost)" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="15/70" />
+		</card>
+		<card name="Genius' Big Answer" id="1ab10d8e-2fce-4d00-8263-ac8d80371073">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="7" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose a creature in the battle zone and return it to its owner's hand. If you have 2 or more creatures that have ??? or The Answer in their race in the battle zone, return all your opponent's creatures to their owners' hands instead." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="16/70" />
+		</card>
+		<card name="Push The Eye, Demon Dragon King" id="2e317be4-9a60-4144-aabd-71232cc8b005">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Demon Command Dragon/Revolutionary" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Evolution - Put on one of your darkness creatures.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;Whenever this creature attacks, if your number of creatures is greater than or equal to your number of shields, destroy one of your opponent's untapped creatures." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="17/70" />
+		</card>
+		<card name="Jenny, the Suicide Train" id="ad19a118-78af-4ea8-a17f-e48fa1f8d32c">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Death Puppet/Hedrian" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, your opponent chooses and discards 2 cards from their hand." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="18/70" />
+		</card>
+		<card name="Lapis Lazuli, False Millionaire" id="4847f446-f098-4480-aba7-e649ad9faf17">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command/Dark Lord" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, discard your hand." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="19/70" />
+		</card>
+		<card name="Raiding, Supersonic" id="ca991891-d82d-4401-a34e-a95b4e5cc77d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Sonic Command/Invader" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="Evolution - Put on one of your fire creatures.&#xd;&#xa;&#xd;&#xa;Invasion - Fire creature that costs 5 or more&#32;&#xd;&#xa;&#32;(When one of your CONDITIONS attack, you may put this creature from your hand onto it)&#32;&#xd;&#xa;&#32;&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, destroy one of your opponent´s creature that has power 5000 or less. If you have 3 or more cards under this creature, destroy any number of your opponent´s creatures that have power 8000 or less instead." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="20/70" />
+		</card>
+		<card name="Strike Amecchi" id="d2c6ff4d-4414-4074-ae81-1aeecb0db404">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Mega Command Dragon/Fire Bird En/Revolutionary" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put up to 2 of your shields into your hand. You can't use the 'shield trigger' ability of those shields." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="21/70" />
+		</card>
+		<card name="The End of X" id="2f8a44f6-d42c-4187-8963-3bd68cf7b6cd">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this Card Type is put into your hand from your shield zone, you may use it for no cost)&#xd;&#xa;Put one of your seals into your graveyard.&#xd;&#xa;Choose one of your opponent's creatures. Your opponent puts a seal on that creature.&#xd;&#xa;(When you seal a card, put the top card of your deck on that card face down. Whenever a Command is put into the battle zone, its owner puts a seal from one of his cards that has the same civilization as that Command into his graveyard. While a creature is sealed, both players ignore that creature)" />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="22/70" />
+		</card>
+		<card name="Trap Giant" id="afda9eed-9a6a-4e8e-b28d-7ebfa1804885">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="9" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Giant" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and put it into their mana zone." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="23/70" />
+		</card>
+		<card name="Aurora of Reversal" id="0e3ad952-2c88-40c5-9551-b56080ea9c37">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Choose any number of your shields and put them into your mana zone." />
+			<property name="Rarity" value="Rare" />
+			<property name="Number" value="24/70" />
+		</card>
+		<card name="Zenjizo, Three Kingdoms" id="a51ca67e-3b79-412b-9d91-cf2e7ce48aa9">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Angel Command/Invader" />
+			<property name="Power" value="6500" />
+			<property name="Rules" value="Evolution - Put on one of your light creatures.&#xd;&#xa;Invasion - Light creature that costs 3 or more(When one of your light creatures that costs 3 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;At the end of each of your turns, untap this creature." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="25/70" />
+		</card>
+		<card name="Protigere, Lord of Dragon Spirits" id="6ad8b657-97ef-437f-ab9b-b95dcf6c1027">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Angel Command Dragon/Revolutionary" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="Evolution - Put on one of your light creatures.&#xd;&#xa;Whenever one of your light creatures is attacked or blocked, you may put this creature on top of it.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="26/70" />
+		</card>
+		<card name="Rururu, Maiden Ball" id="855dbb96-64e7-4aa5-bf3a-fae5532af7ef">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Orb/Revolutionary" />
+			<property name="Power" value="4500" />
+			<property name="Rules" value="When you put this creature into the battle zone, if your number of creatures is greater to or equal than your number of shields, your creatures win all battles until the end of the turn." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="27/70" />
+		</card>
+		<card name="Reef, Revolution Captain" id="9ec2d888-433f-4822-9326-78272cdee219">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Cyber Virus Kai/Revolutionary" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="If you have a water creature in the battle zone, this creature gets 'shield trigger'.&#xd;&#xa;Evolution - Put on one of your water creatures.&#xd;&#xa;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Revolution 2 - When you put this creature into the battle zone, if you have 2 shields or less, you may draw 3 cards." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="28/70" />
+		</card>
+		<card name="Duerou, Weapon of Dreams" id="15087587-8176-4873-aa74-1a68b66c904b">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="The Answer" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="When you put this creature into the battle zone, draw 2 cards. Then your opponent draws a card.&#xd;&#xa;Your water spells cost 2 less to cast. They can't cost 0 or less." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="29/70" />
+		</card>
+		<card name="Gachanko, Black Mini" id="25bed858-78de-486d-aed2-2c1fd81615a4">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Great Mecha King/Invader" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Ultra Saver: Evolution creature(When one of your evolution creatures would leave the battle zone, you may destroy this creature instead)&#xd;&#xa;Mana Arms 3 - When this creature is destroyed, if you have 3 or more water cards in your mana zone, you may draw a card." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="30/70" />
+		</card>
+		<card name="Spellbook Charger" id="a55dfc6e-e3c8-478a-b0a9-5d20937e3d88">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Look at the top 5 cards of your deck. You may take a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.&#xd;&#xa;Charger(After you cast this spell, put it into your mana zone instead of your graveyard)" />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="31/73" />
+		</card>
+		<card name="Zombiebar, Zombie" id="f2f82cad-a605-4319-b4aa-a5c10086500b">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Demon Command/Invader" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="Evolution - Put on one of your darkness creatures.&#xd;&#xa;Invasion - Darkness creature that costs 3 or more(When one of your darkness creatures that costs 3 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put the top 5 cards of your deck into your graveyard." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="32/70" />
+		</card>
+		<card name="Matmel, Zombie" id="fa07d70f-bb28-4ca8-a1fd-b010485f6334">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command/Invader" />
+			<property name="Power" value="9000" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When this creature wins a battle, destroy it.&#xd;&#xa;When this creature is destroyed, put the top 6 cards of your deck into your graveyard." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="33/70" />
+		</card>
+		<card name="Votch Idel, Cruel Demon Dragon" id="93741de5-68b0-491d-b414-32e8106fb640">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command Dragon/Revolutionary" />
+			<property name="Power" value="" />
+			<property name="Rules" value="If your number of creatures is greater to or equal than your number of shields, you may summon this creature from your graveyard." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="34/70" />
+		</card>
+		<card name="Kodamanma's Yell Digging" id="b596100f-c60d-4bfd-862e-6c5e0cac827f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Return a creature from your graveyard to your hand.&#xd;&#xa;Return one of your shields to your hand. You can't use the 'shield trigger' ability of that shield." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="35/70" />
+		</card>
+		<card name="Raidon, Sonic" id="c805479c-1c73-4986-90e2-ffe7850d9090">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Sonic Command/Invader" />
+			<property name="Power" value="7000" />
+			<property name="Rules" value="Evolution - Put on one of your fire creatures.&#xd;&#xa;&#xd;&#xa;Invasion - Fire creature that costs 3 or more&#32;&#xd;&#xa;&#32;(When one of your CONDITIONS attack, you may put this creature from your hand onto it)&#32;&#xd;&#xa;&#32;&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put one of your untapped creatures under this creature. If you do, untap this creature after the attack for the first time each turn." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="36/70" />
+		</card>
+		<card name="Meteor 08, Sonic" id="17a3c035-32de-464f-992b-bffbaa98564c">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Human Baku/Invader" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, destroy one of your opponent's creatures that has 'blocker'." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="37/70" />
+		</card>
+		<card name="Perfect Defense" id="ef3ea989-b2e5-46d9-81f6-ea9ffab08f40">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="Choose one of your creatures. Whenever that creature wins a battle this turn, untap it.&#xd;&#xa;Whenever your opponent would win the game in any way other than attacking with one of his creatures, you may discard this card instead." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="38/70" />
+		</card>
+		<card name="Pine Jr, Beast Army" id="d4aa5fee-79e5-4597-b10a-7d1f4e8ee935">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Evolution Creature" />
+			<property name="Race" value="Guerrilla Command/Invader" />
+			<property name="Power" value="7000+" />
+			<property name="Rules" value="Evolution - Put on one of your nature creatures.&#xd;&#xa;Invasion - Nature creature that costs 3 or more(When one of your nature creatures that costs 3 or more attacks, you may put this creature from your hand onto it)&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature into the battle zone, you may put a creature from your mana zone under this creature. If you do, this creature gets +5000 power and breaks an additional shield until the end of the turn." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="39/70" />
+		</card>
+		<card name="Kujigojira, Whalekind" id="66301a25-1738-401e-914d-a01f9a6787a2">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="6" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Jurassic Command Dragon" />
+			<property name="Power" value="8000" />
+			<property name="Rules" value="&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;When you put this creature or another creature that has power 6000 or more in the battle zone, you may put the top card of your deck into the mana zone." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="40/70" />
+		</card>
+		<card name="Kamaitachi, Beast Army" id="fdb79566-2bb2-496b-91a8-df6f53a80c97">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Guerrilla Command/Invader" />
+			<property name="Power" value="6000" />
+			<property name="Rules" value="&#8203;Double breaker(This creature breaks 2 shields)&#xd;&#xa;If your number of creatures is equal to or greater than your number of shields, you may summon this creature from your mana zone." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="41/70" />
+		</card>
+		<card name="Marinyan, Snow Faerie" id="63c2f945-0e4b-45e5-a341-25a4115ebc8f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Snow Faerie Kaze/Revolutionary" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, reveal the top card of your deck. If it´s a creature, add it to your hand, otherwise put it into your mana zone." />
+			<property name="Rarity" value="Uncommon" />
+			<property name="Number" value="42/70" />
+		</card>
+		<card name="Paparas and Mamaras, Parent Ball" id="468e292c-1951-4b45-a3cc-6c10711eef86">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Orb" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="43/70" />
+		</card>
+		<card name="Nipuras, Vizier of Leading" id="b22bcace-057a-415a-bca9-6d37d755746f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Initiate" />
+			<property name="Power" value="3000+" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, that creature gets +2000 power." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="44/70" />
+		</card>
+		<card name="Fenicle, Wings of Immortality" id="774a3a50-4785-4600-a639-dff38089df5f">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Wing" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="Mana Arms 3: When this creature would be destroyed, if you have 3 or more light cards in your mana zone, add it to your shields face down instead." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="45/70" />
+		</card>
+		<card name="Jeiri, Snook Ball" id="7d0daaf0-5a8b-4b35-927c-55780b7b357d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Justice Orb/Revolutionary" />
+			<property name="Power" value="2500" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack players.&#xd;&#xa;| effect = If your number of creatures is greater to or equal than your number of shields, this creature gets 'shield saver'." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="46/70" />
+		</card>
+		<card name="Tulk, the Oracle" id="225a0e2b-9e45-4859-9cb5-93904fce10b1">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="1" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Light Bringer" />
+			<property name="Power" value="500" />
+			<property name="Rules" value="" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="47/70" />
+		</card>
+		<card name="Quick Spark" id="73b23290-2fa9-43bd-924d-2856cc6a26d1">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Light" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Tap all your opponent's creatures in the battle zone that cost 6 or less." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="48/70" />
+		</card>
+		<card name="Dan Darts, Eureka" id="e462089f-ebbe-44a4-a4b8-0054c85bf07e">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Magic Command/Invader" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, look at one of your opponent's shields." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="49/70" />
+		</card>
+		<card name="Topas, Space" id="d70ec472-1647-49fc-936e-11e0cf2170f2">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Liquid People Sen/Invader" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="When this creature would be destroyed, you may put a creature named Topas, Space from your hand into the battle zone instead." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="50/70" />
+		</card>
+		<card name="Aqua Hulcus" id="9ef14f60-eaaa-4601-9ead-d0c7c4444799">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Liquid People" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="When you put this creature into the battle zone, you may draw a card." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="51/70" />
+		</card>
+		<card name="O Sushi" id="d37753c6-5e75-4515-bcb1-9944209abdb7">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Cyber Virus Kai/Revolutionary" />
+			<property name="Power" value="1000+" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;This creature can't attack.&#xd;&#xa;Revolution 2 - If you have 2 shields or less, this creature gets +4000 power." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="52/70" />
+		</card>
+		<card name="Spray Spiral" id="dc196b44-e8c5-4126-9edf-3f486274b66d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose a creature that has power 5000 or less and return it to its owner's hand." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="53/70" />
+		</card>
+		<card name="Kawametal, Zombie" id="a9437a51-3f24-482d-8b22-d8c00a91d1eb">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Demon Command/Invader" />
+			<property name="Power" value="5000" />
+			<property name="Rules" value="When you put this creature into the battle zone, you may destroy one of your creatures. If you do, draw 2 cards." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="54/70" />
+		</card>
+		<card name="Lebite, Electro-Shadow" id="cb00f78c-3ee0-4125-b29f-4a12ae4656be">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Ghost" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, your opponent chooses and discards a card." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="55/70" />
+		</card>
+		<card name="Benzo, the Hidden Fury" id="41f40ddb-5b30-4a94-942f-411d557e56fc">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Pandora's Box" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="When you put this creature into the battle zone, choose one of your shields and put it into your hand.(You can use the 'shield trigger' ability of that shield)" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="56/70" />
+		</card>
+		<card name="Donbaku Bobobon" id="641a9b9d-8dd8-48c9-921a-f387c72410ad">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Funky Knightmare" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="When this creature is destroyed, choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the end of the turn.(A creature that has power 0 or less is destroyed)" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="57/70" />
+		</card>
+		<card name="Jagard, Dark Armor" id="5ae22896-508a-4d87-95da-75ebd78b00e0">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Dark Knightmare/Revolutionary" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="&#8203; Blocker(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle)&#xd;&#xa;Slayer(Whenever this creature battles, destroy the other creature after the battle)&#xd;&#xa;This creature can't attack." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="58/70" />
+		</card>
+		<card name="Kamikami Carnival" id="ff0d24b1-f977-4adf-8afb-333afe552a39">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Darkness" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose one of your opponent's creatures in the battle zone. That creature gets -5000 power until the end of the turn.(A creature that has power 0 or less is destroyed)" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="59/70" />
+		</card>
+		<card name="Trig, Forbidden C" id="f757b260-a0da-40b0-b814-f6f30b5b8792">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="5" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Sonic Command/Invader/Initials" />
+			<property name="Power" value="3000+" />
+			<property name="Rules" value="&#8203;  Shield trigger(When this creature is put into your hand from your shield zone, you may summon it for no cost)&#xd;&#xa;While battling, this creature gets +2000 power." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="60/70" />
+		</card>
+		<card name="Burger Amecchi" id="76419997-304d-44d5-906d-22ab4a87a954">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Mega Command Dragon/Fire Bird En/Revolutionary" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="61/70" />
+		</card>
+		<card name="Typhoon, Forbidden C" id="53973408-ec1b-42db-bb6e-d527efbad155">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Sonic Command/Invader/Initials" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="When you put this creature into the battle zone, you may discard a card. If you do, draw a card." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="62/70" />
+		</card>
+		<card name="Love Batoracchi" id="ccac586c-2b40-4d99-be99-04fe3a988f1a">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Fire Bird En/Revolutionary" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="When you put this creature into the battle zone, choose one of your Fire Birds or Dragons and one of your opponent's creatures. Those 2 creatures battle." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="63/70" />
+		</card>
+		<card name="Nareta, Passionate MC" id="497ec34c-ab0f-4a11-9fa2-453272e3ea75">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Human Baku" />
+			<property name="Power" value="2000" />
+			<property name="Rules" value="If your number of creatures is greater to or equal than your number of shields, this creature gets 'speed attacker'." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="64/70" />
+		</card>
+		<card name="Bishitto Amecchi" id="d9ce1368-cc22-459c-a613-a8f9ddeff65d">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Fire" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Fire Bird En/Revolutionary" />
+			<property name="Power" value="1000" />
+			<property name="Rules" value="Ultra Saver: Fire Dragon(When one of your fire dragons would leave the battle zone, you may destroy this creature instead)" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="65/70" />
+		</card>
+		<card name="Yadoc, Beast Army" id="0e996bc9-31d7-407c-b0a5-4243db13f0c7">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Guerrilla Command/Invader" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Whenever your opponent puts a creature into the battle zone that costs more than the number of cards in his mana zone, they put it in their mana zone instead." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="66/70" />
+		</card>
+		<card name="Sannap, Tribe" id="6e1aced2-11f6-4210-86e0-de1e7fd87b63">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="3" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Beast Folk Go/Invader" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="Mana Arms 3: When you put this creature into the battle zone, if you have 3 or more nature cards in your mana zone, untap 3 cards in your mana zone." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="67/70" />
+		</card>
+		<card name="Stick, Snow Faerie" id="cca57343-8268-4627-a6b5-63acfa0bafed">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Snow Faerie Kaze/Revolutionary" />
+			<property name="Power" value="3000" />
+			<property name="Rules" value="ERROR WITH PHP DATA, UNEXPECTED FORMAT" />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="68/70" />
+		</card>
+		<card name="HouHou, Snow Faerie" id="93eb566b-2c7a-4098-9d44-d638db84ffda">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="2" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Snow Faerie Kaze/Revolutionary" />
+			<property name="Power" value="1000+" />
+			<property name="Rules" value="Whenever any of your creatures attacks, if it´s for the first time this turn, this creature gets +3000 power." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="69/70" />
+		</card>
+		<card name="TulkTulk Trap" id="68a7011d-db0d-4095-a6e4-487dc97feb92">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Nature" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Spell" />
+			<property name="Race" value="" />
+			<property name="Power" value="" />
+			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Choose a creature that has power 5000 or less and put it into its owner's mana zone." />
+			<property name="Rarity" value="Common" />
+			<property name="Number" value="70/70" />
+		</card>
+
+	</cards>
+</set>
