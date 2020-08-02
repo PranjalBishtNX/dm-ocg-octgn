@@ -889,7 +889,7 @@
 			<property name="Type" value="Creature" />
 			<property name="Race" value="Snow Faerie Kaze/Revolutionary" />
 			<property name="Power" value="3000" />
-			<property name="Rules" value="ERROR WITH PHP DATA, UNEXPECTED FORMAT" />
+			<property name="Rules" value="" />
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="68/70" />
 		</card>

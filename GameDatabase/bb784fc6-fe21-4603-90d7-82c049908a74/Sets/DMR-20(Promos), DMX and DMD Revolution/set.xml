@@ -330,17 +330,6 @@
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="a37/59" />
 		</card>
-		<card name="Fortune Slot" id="e1eb9baa-1a09-4ae6-8083-a9b11e61fbfb">
-			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Water" />
-			<property name="Cost" value="4" />
-			<property name="Type" value="Spell" />
-			<property name="Race" value="" />
-			<property name="Power" value="" />
-			<property name="Rules" value="&#8203; Shield trigger(When this spell is put into your hand from your shield zone, you may cast it for no cost)&#xd;&#xa;Reveal the top 4 cards of your deck. From among them, you may put a creature, a spell, cross gear, and castle into your hand. Put the rest on the bottom of your deck in any order." />
-			<property name="Rarity" value="Common" />
-			<property name="Number" value="a43/59" />
-		</card>
 		<card name="Little Gunflare, Passion Dragon" id="6f38a9f4-2789-442b-9049-4954d466ee88">
 			<property name="Format" value="OCG" />
 			<property name="Civilization" value="Fire" />
@@ -763,6 +752,17 @@
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="b105/???" />
 		</card>
+		<card name="S Maneki" id="8c86be97-4829-4a1c-a76a-0789765075f7">
+			<property name="Format" value="OCG" />
+			<property name="Civilization" value="Water" />
+			<property name="Cost" value="4" />
+			<property name="Type" value="Creature" />
+			<property name="Race" value="Cyber Virus Kai" />
+			<property name="Power" value="4000" />
+			<property name="Rules" value="Whenever this creature would battle, you may play Rock-Paper-Scissors instead. The losing player destroys their creature that would have battled.&#xd;&#xa;Whenever your opponent throws rock during Rock-Paper-Scissors, you may draw a card." />
+			<property name="Rarity" value="No Rarity" />
+			<property name="Number" value="b106/???" />
+		</card>
 		<card name="King Poisonous Mushroom" id="34f2fb6e-6de2-404d-96fe-91f511551887">
 			<property name="Format" value="OCG" />
 			<property name="Civilization" value="Nature" />
@@ -908,29 +908,6 @@
 			<property name="Rarity" value="Common" />
 			<property name="Number" value="b139/???" />
 		</card>
-		<card name="Bolshack, Shobu Castle" id="08009a8a-04a9-4cf5-910b-270d2fd46415" size="wide">
-			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Fire" />
-			<property name="Cost" value="6" />
-			<property name="Type" value="Dragheart Fortress" />
-			<property name="Race" value="" />
-			<property name="Power" value="" />
-			<property name="Rules" value="While one of your fire creatures is attacking, it gets +1000 power for each of your fire cards in your graveyard. &#xd;&#xa;Dragsolution: At the start of your turn, if you have 6 or more fire Dragons in the battle zone and/or your graveyard, flip this card to the dragheart creature side and untap it.&#xd;&#xa;(At the start of your game, draghearts are put into your hyperspatial zone. If it leaves the battle zone, return it there)" />
-			<property name="Rarity" value="No Rarity" />
-			<property name="Number" value="b146a/???" />
-			
-			<alternate name="Bolshack Masters, Trump Dragon" type="awakening">
-				<property name="Format" value="OCG" />
-				<property name="Civilization" value="Fire" />
-				<property name="Cost" value="12" />
-				<property name="Type" value="Dragheart Creature" />
-				<property name="Race" value="Gaial Command Dragon" />
-				<property name="Power" value="25000+" />
-				<property name="Rules" value="World breaker(This creature breaks all your opponent's shields)&#xd;&#xa;Whenever one of your creatures attacks, that creature gets +3000 power for each of your fire cards in your graveyard." />
-				<property name="Rarity" value="No Rarity" />
-				<property name="Number" value="b146b/???" />
-			</alternate>
-		</card>
 		
 		<card name="Terror Pit" id="860c89b6-dedb-483a-956a-cfe3408cbe4e">
 			<property name="Format" value="OCG" />
@@ -953,17 +930,6 @@
 			<property name="Rules" value="(This creature is put into your mana zone tapped)&#xd;&#xa;Speed attacker(This creature doesn't get summoning sickness)&#xd;&#xa;Whenever this creature attacks, you may discard an Outrage from your hand. If you do, draw 2 cards and this creature gets +3000 power and 'Double Breaker' until the end of the turn." />
 			<property name="Rarity" value="No Rarity" />
 			<property name="Number" value="b154/???" />
-		</card>
-		<card name="Fuji Thunder, Sacred Dragon" id="2c6d98b8-aa37-4250-91a2-bd7ab4438f9b">
-			<property name="Format" value="OCG" />
-			<property name="Civilization" value="Fire" />
-			<property name="Cost" value="4" />
-			<property name="Type" value="Creature" />
-			<property name="Race" value="Armored Dragon/Rock Beast" />
-			<property name="Power" value="6000" />
-			<property name="Rules" value="Guardman(When one of your other creatures is attacked, you may tap this creature. If you do, the attacking creature will attack this creature instead)&#xd;&#xa;If you don't have another Dragon in the battle zone, this creature can't attack.&#xd;&#xa;&#8203;Double breaker(This creature breaks 2 shields)" />
-			<property name="Rarity" value="No Rarity" />
-			<property name="Number" value="b155/???" />
 		</card>
 		<card name="Vanilla Zone" id="087913a3-1aa2-4315-95ed-b163731c408e">
 			<property name="Format" value="OCG" />
